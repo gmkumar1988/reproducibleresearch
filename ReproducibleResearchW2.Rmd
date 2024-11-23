@@ -2,7 +2,9 @@
 title: "ProjectA01"
 author: "Mahesh Gurumoorthi"
 date: "2024-11-20"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 # Reproducible Research: Peer Assessment 1
